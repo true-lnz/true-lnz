@@ -23,7 +23,7 @@
 
 [![reCode](https://svg.bookmark.style/api?url=http://recode.ddns.net&mode=light&style=horizontal)](http://recode.ddns.net)
 [![polyclinicApp](https://svg.bookmark.style/api?url=https://github.com/true-lnz/PolyclinicApp&mode=dark&style=horizontal)](https://github.com/true-lnz/PolyclinicApp)
-[![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner)
+[![it-institute](https://svg.bookmark.style/api?url=https://github.com/true-lnz/web-IT-faculty&mode=light&style=vertical)](https://github.com/true-lnz/web-IT-faculty)
 
 <br/>  
 
