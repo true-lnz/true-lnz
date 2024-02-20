@@ -22,7 +22,7 @@
 ## В данный момент работают над:
 
 [![reCode](https://svg.bookmark.style/api?url=http://recode.ddns.net&mode=light&style=horizontal)](http://recode.ddns.net)
-[![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
+[![polyclinicApp](https://svg.bookmark.style/api?url=https://github.com/true-lnz/PolyclinicApp&mode=dark&style=horizontal)](https://github.com/true-lnz/PolyclinicApp)
 [![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner)
 
 <br/>  
