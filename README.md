@@ -17,7 +17,8 @@
                   
 ## Связь со мной
 - [Вконтакте](https://vk.com/true-lnz) 
-- [Телеграм](https://t.me/lansonz)  
+- [Телеграм](https://t.me/lansonz)
+- Почта: lansonzgroup@ya.ru
 
 ## В данный момент работают над
 
