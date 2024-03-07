@@ -2,7 +2,7 @@
 
 ### <div align="center">Привет, меня зовут Урал, я Frontend-разработчик, UX/UI дизайнер</div>  
 
-<div align="center">●   🌍  Город: <b>Уфа</b>   ●   🔭 Работаю над стартапом [reCode](http://recode.ddns.net)   ●   🌱 Прокачиваю: <b>JS, React</b>   ●</div> 
+<div align="center">— 🌍 Город: <b>Уфа</b> — 🔭 Работаю над стартапом [reCode](http://recode.ddns.net) — 🌱 Прокачиваю: <b>JS, React</b> — </div> 
   
 <br/>  
 
