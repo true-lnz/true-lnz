@@ -1,12 +1,8 @@
 <div align="center"><img src="https://github.com/true-lnz/true-lnz/blob/main/git.jpg" width="700" height="226"/></div> 
 
 ### <div align="center">Привет, меня зовут Урал, я Frontend-разработчик, UX/UI дизайнер</div>  
-  
-- 🌍  Город: **Уфа**
-  
-- 🔭 В данный момент я работаю над стартапом [reCode](http://recode.ddns.net)
-  
-- 🌱 Сейчас я прокачиваю свои навыки frontend-разработки: **JS, React**
+
+<div align="center">● 🌍  Город: **Уфа** ● 🔭 Работаю над стартапом [reCode](http://recode.ddns.net) ● 🌱 Прокачиваю: **JS, React** ●</div> 
   
 <br/>  
 
