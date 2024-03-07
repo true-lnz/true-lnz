@@ -14,6 +14,7 @@
 </p>
 
 Frontend: JavaScript, HTML5, SCSS, SASS, Bootstrap 5
+
 Backend: языки C/C++, C#, Python, Java/Kotlin;  Spring Boot; базы данных PostgreSQL, MS SQL Server
                   
 ## Связь со мной
