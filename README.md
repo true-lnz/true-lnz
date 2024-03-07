@@ -2,6 +2,10 @@
   <img src="https://github.com/true-lnz/true-lnz/blob/main/git.jpg" width="700" height="226"/>
 </div>
 
+<div style="display:flex; justify-content: center; width: 100%">
+  <img src="https://github.com/true-lnz/true-lnz/blob/main/git.jpg" width="700" height="226" style="margin: auto;"/>
+</div>
+
 
 ### <div align="center">Привет, меня зовут Урал, я Frontend-разработчик, UX/UI дизайнер</div>  
   
