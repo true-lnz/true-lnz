@@ -1,4 +1,4 @@
-<img src="https://github.com/true-lnz/true-lnz/blob/main/git.jpg" width="700" height="226" alt="C++" />
+<img style="margin-left: 100px;" src="https://github.com/true-lnz/true-lnz/blob/main/git.jpg" width="700" height="226" alt="C++" />
 
 ### <div align="center">Привет, меня зовут Урал, я Frontend-разработчик, UX/UI дизайнер</div>  
   
