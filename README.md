@@ -1,4 +1,4 @@
-<div style="display:flex; justify-content: center; width: 100%; background: black;">
+<div style="display:flex; justify-content: center; width: 100%; background-color: black;">
   <img src="https://github.com/true-lnz/true-lnz/blob/main/git.jpg" width="700" height="226" style="margin: auto;"/>
 </div>
 
