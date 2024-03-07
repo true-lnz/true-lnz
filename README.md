@@ -1,4 +1,4 @@
-### <div align="center">Привет, меня зовут Урал, я UX/UI дизайнер, Frontend-разработчик</div>  
+### <div align="center">Привет, меня зовут Урал, я Frontend-разработчик, UX/UI дизайнер</div>  
   
 - 🌍  Город: Уфа
 
