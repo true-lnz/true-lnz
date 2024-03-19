@@ -16,7 +16,7 @@
 **Backend:** языки C/C++, C#, Python, Java/Kotlin; Spring Boot; базы данных PostgreSQL, MS SQL Server
                   
 ## Связь со мной
-- [Телеграм](https://t.me/lansonz)
+- Телеграм: [@lansonz](https://t.me/lansonz)
 - Почта: ukazakkulov@gmail.com
 
 ## В данный момент работают над
