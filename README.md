@@ -23,6 +23,7 @@
 
 [![reCode](https://svg.bookmark.style/api?url=http://158.160.5.213:3030&mode=light&style=horizontal)](http://158.160.5.213:3030)
 [![polyclinicApp](https://svg.bookmark.style/api?url=https://github.com/true-lnz/PolyclinicApp&mode=dark&style=horizontal)](https://github.com/true-lnz/PolyclinicApp)
+[![cinemaApp](https://svg.bookmark.style/api?url=https://github.com/true-lnz/CinemaApp&mode=light&style=horizontal)](https://github.com/true-lnz/CinemaApp)
 [![it-institute](https://svg.bookmark.style/api?url=https://github.com/true-lnz/web-IT-faculty&mode=light&style=horizontal)](https://github.com/true-lnz/web-IT-faculty)
 
 <br/>  
