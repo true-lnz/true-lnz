@@ -23,7 +23,7 @@
 ## В данный момент работают над
 
 [![it-institute](https://svg.bookmark.style/api?url=https://github.com/true-lnz/web-IT-faculty&mode=light&style=horizontal)](https://github.com/true-lnz/web-IT-faculty)
-[![reCode](https://svg.bookmark.style/api?url=http://158.160.5.213:3030&mode=light&style=horizontal)](http://ре-код.рф:3030)
+[![reCode](https://svg.bookmark.style/api?url=http://158.160.5.213:3030&mode=light&style=horizontal)](https://ре-код.рф/)
 [![polyclinicApp](https://svg.bookmark.style/api?url=https://github.com/true-lnz/PolyclinicApp&mode=light&style=horizontal)](https://github.com/true-lnz/PolyclinicApp)
 [![cinemaApp](https://svg.bookmark.style/api?url=https://github.com/true-lnz/CinemaApp&mode=light&style=horizontal)](https://github.com/true-lnz/CinemaApp)
 
