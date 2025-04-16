@@ -2,7 +2,7 @@
 
 ### <div align="center">Привет, меня зовут Урал, я Frontend-разработчик, UX/UI дизайнер</div>  
 
-<div align="center">— 🌍 Город: <b>Уфа</b> — 🔭 Работаю над стартапом <a href="http://recode.ddns.net:3030">reCode</a> — 🌱 Прокачиваю: <b>JS, React</b> — </div> 
+<div align="center">— 🌍 Город: <b>Уфа</b> — 🔭 Работаю над стартапом <a href="https://ре-код.рф/contacts">reCode</a> — 🌱 Прокачиваю: <b>JS, React</b> — </div> 
   
 <br/>  
 
