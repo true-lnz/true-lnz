@@ -14,7 +14,7 @@
 
 **Frontend:** React, JavaScript, JQuery, HTML5, SCSS, SASS, LESS, Bootstrap 5
 
-**Backend:** языки C/C++, C#, Python, Java/Kotlin; Spring Boot; базы данных PostgreSQL, MS SQL Server
+**Backend:** языки C/C++, C#, Python, Java/Kotlin, Go (Golang); Spring Boot, Golang Fiber; базы данных PostgreSQL, MS SQL Server, SQLite
                   
 ## Связь со мной
 - Почта: ukazakkulov@gmail.com
